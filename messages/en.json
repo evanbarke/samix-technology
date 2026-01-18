@@ -1,0 +1,198 @@
+{
+  "navigation": {
+    "services": "Services",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "getInTouch": "Get in Touch"
+  },
+  "hero": {
+    "badge": "Operated by SPHYNX SASU",
+    "title1": "Building the Future",
+    "title2": "One Line at a Time",
+    "description": "Samix Technology delivers cutting-edge software solutions, data engineering expertise, and strategic consulting to transform your business vision into reality.",
+    "exploreProducts": "Explore Our Products",
+    "ourServices": "Our Services",
+    "stats": {
+      "products": "Products Launched",
+      "experience": "Years Experience",
+      "satisfaction": "Client Satisfaction",
+      "support": "Support Available"
+    }
+  },
+  "services": {
+    "title1": "What We ",
+    "title2": "Offer",
+    "subtitle": "Samix Consulting provides comprehensive technology services to help businesses thrive in the digital age.",
+    "softwareDev": {
+      "title": "Software Development",
+      "description": "Custom software solutions tailored to your business needs. From web applications to enterprise systems, we build scalable and maintainable software.",
+      "features": {
+        "fullstack": "Full-stack development",
+        "api": "API design & integration",
+        "cloud": "Cloud-native applications",
+        "legacy": "Legacy system modernization"
+      }
+    },
+    "dataEng": {
+      "title": "Data Engineering",
+      "description": "Transform raw data into actionable insights. We design and implement robust data pipelines, warehouses, and analytics solutions.",
+      "features": {
+        "etl": "ETL/ELT pipelines",
+        "warehouse": "Data warehousing",
+        "realtime": "Real-time analytics",
+        "governance": "Data quality & governance"
+      }
+    },
+    "dba": {
+      "title": "Database Administration",
+      "description": "Expert DBA services to ensure your databases are optimized, secure, and always available. We handle the complexity so you can focus on growth.",
+      "features": {
+        "performance": "Performance tuning",
+        "availability": "High availability setup",
+        "backup": "Backup & recovery",
+        "security": "Security hardening"
+      }
+    },
+    "consulting": {
+      "title": "Technical Consulting",
+      "description": "Strategic guidance for your technology decisions. We help you choose the right architecture, tools, and processes for long-term success.",
+      "features": {
+        "architecture": "Architecture review",
+        "assessment": "Technology assessment",
+        "augmentation": "Team augmentation",
+        "optimization": "Process optimization"
+      }
+    }
+  },
+  "products": {
+    "title1": "Our ",
+    "title2": "Products",
+    "subtitle": "We build products that solve real problems. Here are the solutions we've crafted to transform industries.",
+    "liveProduct": "Live Product",
+    "visit": "Visit",
+    "sphynx": {
+      "tagline": "AI-Powered Hotel Management Platform",
+      "description": "A comprehensive hotel management platform powered by artificial intelligence. Designed for the hospitality industry to streamline operations, enhance guest experiences, and drive revenue.",
+      "features": {
+        "ai": "AI-powered automation",
+        "gdpr": "GDPR compliant",
+        "pci": "PCI DSS certified",
+        "payment": "Secure payment processing"
+      }
+    },
+    "burnwood": {
+      "tagline": "Stop Swiping. Start Thinking.",
+      "description": "A social networking platform for intellectually curious individuals seeking meaningful connections. Trade shallow dopamine hits for genuine conversation and in-person connection among verified minds.",
+      "features": {
+        "mind": "AI-analyzed Mind Score profiles",
+        "matching": "Intellectual compatibility matching",
+        "tables": "Open Tables at partner cafes",
+        "events": "Curated events for niche communities"
+      }
+    },
+    "helioswarm": {
+      "tagline": "The Physical Layer for Sovereign AI",
+      "description": "A decentralized AI inference network powered by distributed NVIDIA Jetson Orin Nano devices running on solar energy. Converting solar power into verified green AI compute credits.",
+      "features": {
+        "tops": "40 TOPS edge inference power",
+        "solar": "100% solar-powered compute",
+        "api": "Decentralized inference API",
+        "free": "Free access for researchers"
+      }
+    },
+    "neurosignal": {
+      "tagline": "ML-Powered High-Frequency Trading",
+      "description": "A modern machine learning-based high-frequency trading bot for cryptocurrency markets. Leveraging advanced neural networks to identify and execute profitable trading opportunities in milliseconds.",
+      "features": {
+        "ml": "Real-time ML signal detection",
+        "execution": "Sub-millisecond execution",
+        "exchange": "Multi-exchange support",
+        "risk": "Advanced risk management"
+      }
+    }
+  },
+  "about": {
+    "title1": "About ",
+    "title2": "Samix Technology",
+    "paragraph1": "Samix Technology is a software development company operated by",
+    "sphynxSasu": "SPHYNX SASU",
+    "paragraph1End": ". We specialize in building innovative software products and providing expert consulting services.",
+    "paragraph2Start": "Through",
+    "samixConsulting": "Samix Consulting",
+    "paragraph2End": ", we offer comprehensive data engineering, database administration, and software development consulting. Our team brings years of experience across diverse industries and technologies.",
+    "paragraph3Start": "Our product portfolio includes",
+    "sphynx": "Sphynx",
+    "paragraph3Mid": ", an AI-powered hotel management platform, and",
+    "burnwood": "Burnwood",
+    "paragraph3End": ", a social networking platform for intellectually curious individuals seeking meaningful connections.",
+    "techTitle": "Technologies We Work With",
+    "values": {
+      "quality": {
+        "title": "Quality First",
+        "description": "We believe in delivering exceptional quality in every line of code. Our solutions are built to last and scale with your business."
+      },
+      "innovation": {
+        "title": "Innovation Driven",
+        "description": "We stay at the forefront of technology, constantly exploring new tools and methodologies to deliver cutting-edge solutions."
+      },
+      "partnership": {
+        "title": "Client Partnership",
+        "description": "We work as an extension of your team, understanding your goals and challenges to deliver solutions that truly matter."
+      }
+    },
+    "legalEntity": "Legal Operating Entity"
+  },
+  "contact": {
+    "title1": "Let's Work ",
+    "title2": "Together",
+    "subtitle": "Ready to transform your ideas into reality? Get in touch and let's discuss how we can help your business grow.",
+    "emailUs": "Email Us",
+    "callUs": "Call Us",
+    "ourProducts": "Our Products",
+    "responseTime": "Response Time",
+    "responseTimeText": "We typically respond within 24 hours",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "service": "Service Interested In",
+      "message": "Message",
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "your@email.com",
+      "companyPlaceholder": "Your company",
+      "messagePlaceholder": "Tell us about your project...",
+      "selectService": "Select a service",
+      "softwareDev": "Software Development",
+      "dataEng": "Data Engineering",
+      "dba": "Database Administration",
+      "consulting": "Technical Consulting",
+      "other": "Other",
+      "sendMessage": "Send Message",
+      "sending": "Sending...",
+      "errorMessage": "Failed to send message. Please try again later."
+    },
+    "success": {
+      "title": "Message Sent!",
+      "message": "Thank you for reaching out. We'll get back to you soon.",
+      "sendAnother": "Send another message"
+    }
+  },
+  "footer": {
+    "tagline": "Building innovative software solutions for the modern world.",
+    "services": "Services",
+    "softwareDev": "Software Development",
+    "dataEng": "Data Engineering",
+    "dba": "DBA Services",
+    "consulting": "Consulting",
+    "products": "Products",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "copyright": "Samix Technology. Operated by SPHYNX SASU. All rights reserved."
+  },
+  "languageSwitcher": {
+    "en": "English",
+    "fr": "Francais"
+  }
+}

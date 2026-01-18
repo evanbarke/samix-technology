@@ -1,0 +1,29 @@
+{
+  "name": "samix-technology",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 9467",
+    "build": "next build",
+    "start": "next start -p 9467",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.6",
+    "@types/node": "^25.0.3",
+    "@types/react": "^19.2.7",
+    "next": "^16.1.1",
+    "next-intl": "^4.7.0",
+    "nodemailer": "^6.10.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "@types/nodemailer": "^6.4.21",
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
+  }
+}

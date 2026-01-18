@@ -1,0 +1,198 @@
+{
+  "navigation": {
+    "services": "Services",
+    "products": "Produits",
+    "about": "A propos",
+    "contact": "Contact",
+    "getInTouch": "Nous contacter"
+  },
+  "hero": {
+    "badge": "Opere par SPHYNX SASU",
+    "title1": "Construire l'Avenir",
+    "title2": "Ligne par Ligne",
+    "description": "Samix Technology propose des solutions logicielles de pointe, une expertise en ingenierie de donnees et des services de conseil strategique pour transformer votre vision en realite.",
+    "exploreProducts": "Decouvrir nos Produits",
+    "ourServices": "Nos Services",
+    "stats": {
+      "products": "Produits Lances",
+      "experience": "Annees d'Experience",
+      "satisfaction": "Satisfaction Client",
+      "support": "Support Disponible"
+    }
+  },
+  "services": {
+    "title1": "Ce que nous ",
+    "title2": "Proposons",
+    "subtitle": "Samix Consulting offre des services technologiques complets pour aider les entreprises a prosperer a l'ere numerique.",
+    "softwareDev": {
+      "title": "Developpement Logiciel",
+      "description": "Solutions logicielles sur mesure adaptees aux besoins de votre entreprise. Des applications web aux systemes d'entreprise, nous construisons des logiciels evolutifs et maintenables.",
+      "features": {
+        "fullstack": "Developpement full-stack",
+        "api": "Conception et integration d'API",
+        "cloud": "Applications cloud-native",
+        "legacy": "Modernisation de systemes legacy"
+      }
+    },
+    "dataEng": {
+      "title": "Ingenierie de Donnees",
+      "description": "Transformez vos donnees brutes en insights exploitables. Nous concevons et implementons des pipelines de donnees robustes, des entrepots et des solutions analytiques.",
+      "features": {
+        "etl": "Pipelines ETL/ELT",
+        "warehouse": "Entreposage de donnees",
+        "realtime": "Analytique temps reel",
+        "governance": "Qualite et gouvernance des donnees"
+      }
+    },
+    "dba": {
+      "title": "Administration de Bases de Donnees",
+      "description": "Services DBA experts pour garantir que vos bases de donnees sont optimisees, securisees et toujours disponibles. Nous gerons la complexite pour que vous puissiez vous concentrer sur la croissance.",
+      "features": {
+        "performance": "Optimisation des performances",
+        "availability": "Configuration haute disponibilite",
+        "backup": "Sauvegarde et recuperation",
+        "security": "Renforcement de la securite"
+      }
+    },
+    "consulting": {
+      "title": "Conseil Technique",
+      "description": "Conseils strategiques pour vos decisions technologiques. Nous vous aidons a choisir la bonne architecture, les bons outils et processus pour un succes a long terme.",
+      "features": {
+        "architecture": "Revue d'architecture",
+        "assessment": "Evaluation technologique",
+        "augmentation": "Renfort d'equipe",
+        "optimization": "Optimisation des processus"
+      }
+    }
+  },
+  "products": {
+    "title1": "Nos ",
+    "title2": "Produits",
+    "subtitle": "Nous creeons des produits qui resolvent de vrais problemes. Voici les solutions que nous avons concues pour transformer les industries.",
+    "liveProduct": "Produit Actif",
+    "visit": "Visiter",
+    "sphynx": {
+      "tagline": "Plateforme de Gestion Hoteliere propulsee par l'IA",
+      "description": "Une plateforme complete de gestion hoteliere alimentee par l'intelligence artificielle. Concue pour l'industrie hoteliere pour rationaliser les operations, ameliorer l'experience client et augmenter les revenus.",
+      "features": {
+        "ai": "Automatisation par IA",
+        "gdpr": "Conforme au RGPD",
+        "pci": "Certifie PCI DSS",
+        "payment": "Traitement securise des paiements"
+      }
+    },
+    "burnwood": {
+      "tagline": "Arretez de Swiper. Commencez a Reflechir.",
+      "description": "Une plateforme de reseau social pour les individus intellectuellement curieux en quete de connexions significatives. Echangez les doses superficielles de dopamine contre de vraies conversations et des connexions en personne parmi des esprits verifies.",
+      "features": {
+        "mind": "Profils Mind Score analyses par IA",
+        "matching": "Compatibilite intellectuelle",
+        "tables": "Tables Ouvertes dans les cafes partenaires",
+        "events": "Evenements selectionnes pour communautes de niche"
+      }
+    },
+    "helioswarm": {
+      "tagline": "La Couche Physique pour une IA Souveraine",
+      "description": "Un reseau d'inference IA decentralise alimente par des appareils NVIDIA Jetson Orin Nano distribues fonctionnant a l'energie solaire. Conversion de l'energie solaire en credits de calcul IA verts verifies.",
+      "features": {
+        "tops": "40 TOPS de puissance d'inference edge",
+        "solar": "Calcul 100% solaire",
+        "api": "API d'inference decentralisee",
+        "free": "Acces gratuit pour les chercheurs"
+      }
+    },
+    "neurosignal": {
+      "tagline": "Trading Haute Frequence propulse par le ML",
+      "description": "Un bot de trading haute frequence moderne base sur le machine learning pour les marches de cryptomonnaies. Exploitant des reseaux de neurones avances pour identifier et executer des opportunites de trading rentables en millisecondes.",
+      "features": {
+        "ml": "Detection de signaux ML en temps reel",
+        "execution": "Execution sub-milliseconde",
+        "exchange": "Support multi-exchange",
+        "risk": "Gestion avancee des risques"
+      }
+    }
+  },
+  "about": {
+    "title1": "A propos de ",
+    "title2": "Samix Technology",
+    "paragraph1": "Samix Technology est une societe de developpement logiciel operee par",
+    "sphynxSasu": "SPHYNX SASU",
+    "paragraph1End": ". Nous nous specialisons dans la creation de produits logiciels innovants et la fourniture de services de conseil experts.",
+    "paragraph2Start": "A travers",
+    "samixConsulting": "Samix Consulting",
+    "paragraph2End": ", nous offrons des services complets d'ingenierie de donnees, d'administration de bases de donnees et de conseil en developpement logiciel. Notre equipe apporte des annees d'experience dans diverses industries et technologies.",
+    "paragraph3Start": "Notre portefeuille de produits comprend",
+    "sphynx": "Sphynx",
+    "paragraph3Mid": ", une plateforme de gestion hoteliere alimentee par l'IA, et",
+    "burnwood": "Burnwood",
+    "paragraph3End": ", une plateforme de reseau social pour les individus intellectuellement curieux en quete de connexions significatives.",
+    "techTitle": "Technologies avec lesquelles nous travaillons",
+    "values": {
+      "quality": {
+        "title": "La Qualite d'Abord",
+        "description": "Nous croyons en la livraison d'une qualite exceptionnelle dans chaque ligne de code. Nos solutions sont construites pour durer et evoluer avec votre entreprise."
+      },
+      "innovation": {
+        "title": "Oriente Innovation",
+        "description": "Nous restons a la pointe de la technologie, explorant constamment de nouveaux outils et methodologies pour fournir des solutions de pointe."
+      },
+      "partnership": {
+        "title": "Partenariat Client",
+        "description": "Nous travaillons comme une extension de votre equipe, comprenant vos objectifs et defis pour livrer des solutions qui comptent vraiment."
+      }
+    },
+    "legalEntity": "Entite Juridique Operante"
+  },
+  "contact": {
+    "title1": "Travaillons ",
+    "title2": "Ensemble",
+    "subtitle": "Pret a transformer vos idees en realite ? Contactez-nous et discutons de la facon dont nous pouvons aider votre entreprise a croitre.",
+    "emailUs": "Envoyez-nous un Email",
+    "callUs": "Appelez-nous",
+    "ourProducts": "Nos Produits",
+    "responseTime": "Temps de Reponse",
+    "responseTimeText": "Nous repondons generalement sous 24 heures",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "company": "Entreprise",
+      "service": "Service qui vous interesse",
+      "message": "Message",
+      "namePlaceholder": "Votre nom",
+      "emailPlaceholder": "votre@email.com",
+      "companyPlaceholder": "Votre entreprise",
+      "messagePlaceholder": "Parlez-nous de votre projet...",
+      "selectService": "Selectionnez un service",
+      "softwareDev": "Developpement Logiciel",
+      "dataEng": "Ingenierie de Donnees",
+      "dba": "Administration de Bases de Donnees",
+      "consulting": "Conseil Technique",
+      "other": "Autre",
+      "sendMessage": "Envoyer le Message",
+      "sending": "Envoi en cours...",
+      "errorMessage": "Echec de l'envoi du message. Veuillez reessayer plus tard."
+    },
+    "success": {
+      "title": "Message Envoye !",
+      "message": "Merci de nous avoir contactes. Nous vous repondrons bientot.",
+      "sendAnother": "Envoyer un autre message"
+    }
+  },
+  "footer": {
+    "tagline": "Construire des solutions logicielles innovantes pour le monde moderne.",
+    "services": "Services",
+    "softwareDev": "Developpement Logiciel",
+    "dataEng": "Ingenierie de Donnees",
+    "dba": "Services DBA",
+    "consulting": "Conseil",
+    "products": "Produits",
+    "company": "Entreprise",
+    "aboutUs": "A propos",
+    "contact": "Contact",
+    "copyright": "Samix Technology. Opere par SPHYNX SASU. Tous droits reserves."
+  },
+  "languageSwitcher": {
+    "en": "English",
+    "fr": "Francais"
+  }
+}

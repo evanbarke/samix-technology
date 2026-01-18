@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(mkdir:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(./node_modules/.bin/tailwindcss:*)",
+      "Bash(npm run build:*)",
+      "Bash(sudo cp:*)",
+      "Bash(sudo systemctl daemon-reload:*)",
+      "Bash(sudo systemctl enable:*)",
+      "Bash(sudo systemctl start:*)",
+      "Bash(sudo systemctl status:*)",
+      "Bash(curl:*)",
+      "Bash(sudo ln:*)",
+      "Bash(sudo nginx:*)",
+      "Bash(sudo systemctl reload:*)",
+      "Bash(sudo certbot:*)",
+      "Bash(sudo systemctl restart:*)",
+      "WebFetch(domain:get-sphynx.com)",
+      "WebFetch(domain:burnwood.app)",
+      "WebFetch(domain:helioswarm.samix-technology.com)"
+    ]
+  }
+}
