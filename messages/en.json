@@ -186,6 +186,7 @@
     "dba": "DBA Services",
     "consulting": "Consulting",
     "products": "Products",
+    "leakreportSupport": "LeakReport Support",
     "company": "Company",
     "aboutUs": "About Us",
     "contact": "Contact",
@@ -194,5 +195,31 @@
   "languageSwitcher": {
     "en": "English",
     "fr": "Francais"
+  },
+  "leakreportSupport": {
+    "title": "LeakReport Support",
+    "subtitle": "Help for the LeakReport mobile app",
+    "intro": "LeakReport is a professional leak detection reporting platform. Use this page to get help, find user guides, and contact support.",
+    "downloadApp": "Download the app",
+    "getOnGooglePlay": "Get it on Google Play",
+    "downloadOnAppStore": "Download on the App Store",
+    "userGuides": "User guides",
+    "userGuidesDescription": "Step-by-step guides for technicians (mobile app) and office admins (dashboard).",
+    "gettingStarted": "Getting started",
+    "gettingStartedDescription": "Install the app, log in with your technician credentials, and sync leak types and phrases from the server. Start from today's scheduled interventions or create a new intervention.",
+    "offlineMode": "Offline mode",
+    "offlineModeDescription": "Work without network: take photos and notes in basements or utility rooms. Data saves locally and syncs when you're back online.",
+    "troubleshooting": "Troubleshooting",
+    "syncIssues": "Sync not working?",
+    "syncIssuesTips": "Check your internet connection, tap the sync button manually, ensure you're logged in, and try closing and reopening the app.",
+    "loginIssues": "Can't log in?",
+    "loginIssuesTips": "Verify your username and password with your administrator. Check your internet connection.",
+    "aiSuggestions": "AI suggestions not working?",
+    "aiSuggestionsTips": "AI requires an internet connection. Check if AI is enabled (contact your admin). Try again after a few seconds.",
+    "contactSupport": "Contact support",
+    "contactSupportDescription": "For technical support, contact your system administrator or the team that provided your LeakReport access.",
+    "dashboardUrl": "Dashboard (office)",
+    "dashboardUrlDescription": "Access the web dashboard at",
+    "backToSamix": "Back to Samix Technology"
   }
 }

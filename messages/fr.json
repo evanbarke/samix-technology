@@ -186,6 +186,7 @@
     "dba": "Services DBA",
     "consulting": "Conseil",
     "products": "Produits",
+    "leakreportSupport": "Support LeakReport",
     "company": "Entreprise",
     "aboutUs": "A propos",
     "contact": "Contact",
@@ -194,5 +195,31 @@
   "languageSwitcher": {
     "en": "English",
     "fr": "Francais"
+  },
+  "leakreportSupport": {
+    "title": "Support LeakReport",
+    "subtitle": "Aide pour l'application mobile LeakReport",
+    "intro": "LeakReport est une plateforme professionnelle de rapports de recherche de fuites. Utilisez cette page pour obtenir de l'aide, consulter les guides utilisateur et contacter le support.",
+    "downloadApp": "Télécharger l'application",
+    "getOnGooglePlay": "Disponible sur Google Play",
+    "downloadOnAppStore": "Télécharger sur l'App Store",
+    "userGuides": "Guides utilisateur",
+    "userGuidesDescription": "Guides pas à pas pour les techniciens (application mobile) et les administrateurs (tableau de bord).",
+    "gettingStarted": "Premiers pas",
+    "gettingStartedDescription": "Installez l'application, connectez-vous avec vos identifiants technicien et synchronisez les types de fuites et phrases depuis le serveur. Commencez par les interventions programmées du jour ou créez une nouvelle intervention.",
+    "offlineMode": "Mode hors-ligne",
+    "offlineModeDescription": "Travaillez sans réseau : prenez des photos et des notes en sous-sol ou en local technique. Les données sont enregistrées localement et synchronisées lorsque vous êtes de nouveau connecté.",
+    "troubleshooting": "Dépannage",
+    "syncIssues": "La synchronisation ne fonctionne pas ?",
+    "syncIssuesTips": "Vérifiez votre connexion internet, appuyez sur le bouton de synchronisation manuellement, assurez-vous d'être connecté et réessayez en fermant puis rouvrant l'application.",
+    "loginIssues": "Impossible de se connecter ?",
+    "loginIssuesTips": "Vérifiez votre nom d'utilisateur et mot de passe auprès de votre administrateur. Vérifiez votre connexion internet.",
+    "aiSuggestions": "Les suggestions IA ne fonctionnent pas ?",
+    "aiSuggestionsTips": "L'IA nécessite une connexion internet. Vérifiez si l'IA est activée (contactez votre administrateur). Réessayez après quelques secondes.",
+    "contactSupport": "Contacter le support",
+    "contactSupportDescription": "Pour une assistance technique, contactez votre administrateur système ou l'équipe qui vous a fourni l'accès LeakReport.",
+    "dashboardUrl": "Tableau de bord (bureau)",
+    "dashboardUrlDescription": "Accédez au tableau de bord web sur",
+    "backToSamix": "Retour à Samix Technology"
   }
 }

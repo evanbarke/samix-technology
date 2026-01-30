@@ -88,6 +88,14 @@ export default function Footer() {
                   Burnwood
                 </a>
               </li>
+              <li>
+                <Link
+                  href={`/${locale}/leakreport/support`}
+                  className="text-dark-400 hover:text-primary-400 transition-colors text-sm"
+                >
+                  {t("leakreportSupport")}
+                </Link>
+              </li>
             </ul>
           </div>
 
