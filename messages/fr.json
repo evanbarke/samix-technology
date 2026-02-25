@@ -267,10 +267,6 @@
         {
           "quote": "Samix Technology a developpe l'application LeakReport pour nous, simplifiant totalement notre processus de generation de rapports sur le terrain. Ce qui prenait des heures de paperasse se fait maintenant en quelques clics.",
           "author": "Emmanuel, Canasolutions"
-        },
-        {
-          "quote": "Samix a cree notre univers de donnees de reference, reunissant toutes nos sources de donnees disparates en un systeme coherent. Cela a transforme notre facon de gerer et d'exploiter nos donnees.",
-          "author": "Ashish, Daly Credit Solutions"
         }
       ],
       "seo": {
@@ -304,6 +300,10 @@
         {
           "quote": "La plateforme d'analytique temps reel que Samix a construite sur Azure — avec le streaming analytics depuis nos serres et les tablettes de collecte de donnees alimentant un data lake — a transforme nos capacites BI et nous a donne des insights inedits.",
           "author": "Rachid Habchane, Azura Group"
+        },
+        {
+          "quote": "Samix a cree notre univers de donnees de reference, reunissant toutes nos sources de donnees disparates en un systeme coherent. Cela a transforme notre facon de gerer et d'exploiter nos donnees.",
+          "author": "Ashish, Daly Credit Solutions"
         }
       ],
       "seo": {

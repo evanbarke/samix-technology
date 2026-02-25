@@ -7,8 +7,8 @@ interface LandingProofProps {
 }
 
 const testimonialCounts: Record<string, number> = {
-  softwareDev: 2,
-  dataEng: 1,
+  softwareDev: 1,
+  dataEng: 2,
 };
 
 export default function LandingProof({ serviceKey }: LandingProofProps) {

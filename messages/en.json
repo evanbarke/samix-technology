@@ -267,10 +267,6 @@
         {
           "quote": "Samix Technology built the LeakReport app for us, completely simplifying our report generation process in the field. What used to take hours of paperwork now happens in a few taps.",
           "author": "Emmanuel, Canasolutions"
-        },
-        {
-          "quote": "Samix created our master data universe, bringing together all our disparate data sources into one coherent system. It's been a game-changer for how we manage and leverage our data.",
-          "author": "Ashish, Daly Credit Solutions"
         }
       ],
       "seo": {
@@ -304,6 +300,10 @@
         {
           "quote": "The real-time analytics platform Samix built on Azure — with streaming analytics from our greenhouses and data collection tablets feeding into a data lake — has transformed our BI capabilities and given us insights we never had before.",
           "author": "Rachid Habchane, Azura Group"
+        },
+        {
+          "quote": "Samix created our master data universe, bringing together all our disparate data sources into one coherent system. It's been a game-changer for how we manage and leverage our data.",
+          "author": "Ashish, Daly Credit Solutions"
         }
       ],
       "seo": {
