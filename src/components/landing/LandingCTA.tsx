@@ -47,6 +47,16 @@ export default function LandingCTA({ serviceValue }: LandingCTAProps) {
       }
 
       setStatus("success");
+
+      // Fire Google Ads conversion event
+      if (typeof window !== "undefined" && typeof window.gtag === "function") {
+        window.gtag("event", "conversion", {
+          send_to: "AW-17976215107/7EsMCLD-1v4bEMOM3ftC",
+          value: 1.0,
+          currency: "EUR",
+        });
+      }
+
       setFormData({
         name: "",
         email: "",
