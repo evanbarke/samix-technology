@@ -263,10 +263,16 @@
           "description": "Breathe new life into aging systems. We migrate and modernize without disrupting your operations."
         }
       },
-      "testimonial": {
-        "quote": "Samix Technology built the LeakReport app for us, completely simplifying our report generation process in the field. What used to take hours of paperwork now happens in a few taps.",
-        "author": "Emmanuel, Canasolutions"
-      },
+      "testimonials": [
+        {
+          "quote": "Samix Technology built the LeakReport app for us, completely simplifying our report generation process in the field. What used to take hours of paperwork now happens in a few taps.",
+          "author": "Emmanuel, Canasolutions"
+        },
+        {
+          "quote": "Samix created our master data universe, bringing together all our disparate data sources into one coherent system. It's been a game-changer for how we manage and leverage our data.",
+          "author": "Ashish, Daly Credit Solutions"
+        }
+      ],
       "seo": {
         "title": "Custom Software Development Services | Samix Technology",
         "description": "Expert custom software development — full-stack, API design, cloud-native apps, and legacy modernization. Get a free consultation today."
@@ -294,10 +300,12 @@
           "description": "Data quality frameworks, lineage tracking, and governance policies that ensure trustworthy data across your organization."
         }
       },
-      "testimonial": {
-        "quote": "The real-time analytics platform Samix built on Azure — with streaming analytics from our greenhouses and data collection tablets feeding into a data lake — has transformed our BI capabilities and given us insights we never had before.",
-        "author": "Rachid Habchane, Azura Group"
-      },
+      "testimonials": [
+        {
+          "quote": "The real-time analytics platform Samix built on Azure — with streaming analytics from our greenhouses and data collection tablets feeding into a data lake — has transformed our BI capabilities and given us insights we never had before.",
+          "author": "Rachid Habchane, Azura Group"
+        }
+      ],
       "seo": {
         "title": "Data Engineering Services | Samix Technology",
         "description": "Expert data engineering — ETL pipelines, data warehousing, real-time analytics, and data governance. Get a free consultation today."

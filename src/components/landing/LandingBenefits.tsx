@@ -105,7 +105,7 @@ export default function LandingBenefits({ serviceKey, benefitKeys }: LandingBene
   const icons = serviceIcons[serviceKey];
 
   return (
-    <section id="benefits" className="py-24 md:py-32 relative">
+    <section id="benefits" className="py-16 md:py-24 relative">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-2 gap-6 lg:gap-8">
           {benefitKeys.map((key) => (

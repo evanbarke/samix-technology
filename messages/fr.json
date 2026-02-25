@@ -263,10 +263,16 @@
           "description": "Donnez une nouvelle vie a vos systemes vieillissants. Nous migrons et modernisons sans perturber vos operations."
         }
       },
-      "testimonial": {
-        "quote": "Samix Technology a developpe l'application LeakReport pour nous, simplifiant totalement notre processus de generation de rapports sur le terrain. Ce qui prenait des heures de paperasse se fait maintenant en quelques clics.",
-        "author": "Emmanuel, Canasolutions"
-      },
+      "testimonials": [
+        {
+          "quote": "Samix Technology a developpe l'application LeakReport pour nous, simplifiant totalement notre processus de generation de rapports sur le terrain. Ce qui prenait des heures de paperasse se fait maintenant en quelques clics.",
+          "author": "Emmanuel, Canasolutions"
+        },
+        {
+          "quote": "Samix a cree notre univers de donnees de reference, reunissant toutes nos sources de donnees disparates en un systeme coherent. Cela a transforme notre facon de gerer et d'exploiter nos donnees.",
+          "author": "Ashish, Daly Credit Solutions"
+        }
+      ],
       "seo": {
         "title": "Services de Developpement Logiciel | Samix Technology",
         "description": "Developpement logiciel expert — full-stack, conception d'API, applications cloud-native et modernisation legacy. Consultation gratuite."
@@ -294,10 +300,12 @@
           "description": "Cadres de qualite des donnees, tracabilite et politiques de gouvernance pour des donnees fiables dans toute votre organisation."
         }
       },
-      "testimonial": {
-        "quote": "La plateforme d'analytique temps reel que Samix a construite sur Azure — avec le streaming analytics depuis nos serres et les tablettes de collecte de donnees alimentant un data lake — a transforme nos capacites BI et nous a donne des insights inedits.",
-        "author": "Rachid Habchane, Azura Group"
-      },
+      "testimonials": [
+        {
+          "quote": "La plateforme d'analytique temps reel que Samix a construite sur Azure — avec le streaming analytics depuis nos serres et les tablettes de collecte de donnees alimentant un data lake — a transforme nos capacites BI et nous a donne des insights inedits.",
+          "author": "Rachid Habchane, Azura Group"
+        }
+      ],
       "seo": {
         "title": "Services d'Ingenierie de Donnees | Samix Technology",
         "description": "Ingenierie de donnees experte — pipelines ETL, entreposage, analytique temps reel et gouvernance des donnees. Consultation gratuite."
