@@ -206,6 +206,165 @@
     "en": "English",
     "fr": "Francais"
   },
+  "landing": {
+    "header": {
+      "cta": "Get a Free Consultation",
+      "learnMore": "Learn More"
+    },
+    "footer": {
+      "copyright": "Samix Technology. Operated by SPHYNX SASU.",
+      "backToSite": "Visit our main site"
+    },
+    "form": {
+      "title": "Start Your Project",
+      "subtitle": "Tell us about your needs and we'll get back to you within 24 hours.",
+      "name": "Your Name",
+      "email": "Your Email",
+      "company": "Company (optional)",
+      "message": "Tell us about your project",
+      "namePlaceholder": "John Doe",
+      "emailPlaceholder": "john@company.com",
+      "companyPlaceholder": "Your company",
+      "messagePlaceholder": "Describe what you need help with...",
+      "submit": "Get Your Free Consultation",
+      "sending": "Sending...",
+      "successTitle": "Message received!",
+      "successMessage": "Our team will get back to you within 24 hours.",
+      "error": "Something went wrong. Please try again or email us directly."
+    },
+    "proof": {
+      "experienceYears": "10+",
+      "experienceLabel": "Years Experience",
+      "satisfactionValue": "100%",
+      "satisfactionLabel": "Client Satisfaction",
+      "supportValue": "24/7",
+      "supportLabel": "Support Available"
+    },
+    "softwareDev": {
+      "badge": "Software Development Services",
+      "headline": "Custom Software That Drives Your Business Forward",
+      "subheadline": "From concept to deployment, we build scalable, maintainable software solutions tailored to your exact business requirements.",
+      "benefits": {
+        "fullstack": {
+          "title": "Full-Stack Development",
+          "description": "End-to-end development of web and mobile applications using modern frameworks and best practices."
+        },
+        "api": {
+          "title": "API Design & Integration",
+          "description": "RESTful and GraphQL APIs that connect your systems seamlessly and scale with your growth."
+        },
+        "cloud": {
+          "title": "Cloud-Native Applications",
+          "description": "Applications built for the cloud from day one with containerization and CI/CD pipelines."
+        },
+        "legacy": {
+          "title": "Legacy Modernization",
+          "description": "Breathe new life into aging systems. We migrate and modernize without disrupting your operations."
+        }
+      },
+      "testimonial": {
+        "quote": "Samix Technology transformed our outdated platform into a modern, scalable solution that our team loves to work with.",
+        "author": "CTO, Enterprise Client"
+      },
+      "seo": {
+        "title": "Custom Software Development Services | Samix Technology",
+        "description": "Expert custom software development — full-stack, API design, cloud-native apps, and legacy modernization. Get a free consultation today."
+      }
+    },
+    "dataEng": {
+      "badge": "Data Engineering Services",
+      "headline": "Turn Your Raw Data Into Business Intelligence",
+      "subheadline": "We design and implement robust data pipelines, warehouses, and analytics solutions that transform data into your competitive advantage.",
+      "benefits": {
+        "etl": {
+          "title": "ETL/ELT Pipelines",
+          "description": "Reliable, scalable data pipelines that extract, transform, and load data from any source to any destination."
+        },
+        "warehouse": {
+          "title": "Data Warehousing",
+          "description": "Modern data warehouse architecture on Snowflake, BigQuery, or Redshift — designed for performance and cost-efficiency."
+        },
+        "realtime": {
+          "title": "Real-Time Analytics",
+          "description": "Stream processing and real-time dashboards that give you instant visibility into your business metrics."
+        },
+        "governance": {
+          "title": "Data Quality & Governance",
+          "description": "Data quality frameworks, lineage tracking, and governance policies that ensure trustworthy data across your organization."
+        }
+      },
+      "testimonial": {
+        "quote": "Their data engineering team built a pipeline that reduced our reporting time from days to minutes.",
+        "author": "Head of Data, Analytics Company"
+      },
+      "seo": {
+        "title": "Data Engineering Services | Samix Technology",
+        "description": "Expert data engineering — ETL pipelines, data warehousing, real-time analytics, and data governance. Get a free consultation today."
+      }
+    },
+    "dba": {
+      "badge": "Database Administration Services",
+      "headline": "Database Performance You Can Count On",
+      "subheadline": "Expert DBA services to keep your databases optimized, secure, and always available — so you can focus on growing your business.",
+      "benefits": {
+        "performance": {
+          "title": "Performance Tuning",
+          "description": "Query optimization, index tuning, and configuration adjustments that dramatically improve response times."
+        },
+        "availability": {
+          "title": "High Availability Setup",
+          "description": "Always-on database architectures with failover, replication, and disaster recovery built in."
+        },
+        "backup": {
+          "title": "Backup & Recovery",
+          "description": "Comprehensive backup strategies and tested recovery procedures that protect your most valuable asset — your data."
+        },
+        "security": {
+          "title": "Security Hardening",
+          "description": "Database security audits, encryption, access controls, and compliance configurations that keep threats out."
+        }
+      },
+      "testimonial": {
+        "quote": "After Samix optimized our database, query times dropped by 80% and our uptime has been flawless.",
+        "author": "VP of Engineering, SaaS Company"
+      },
+      "seo": {
+        "title": "Database Administration (DBA) Services | Samix Technology",
+        "description": "Expert DBA services — performance tuning, high availability, backup & recovery, and security hardening. Get a free consultation today."
+      }
+    },
+    "consulting": {
+      "badge": "Technical Consulting Services",
+      "headline": "Strategic Technology Guidance for Lasting Success",
+      "subheadline": "We help you make the right technology decisions — from architecture review to team augmentation — so you build on a foundation that scales.",
+      "benefits": {
+        "architecture": {
+          "title": "Architecture Review",
+          "description": "Comprehensive review of your system architecture with actionable recommendations for scalability and reliability."
+        },
+        "assessment": {
+          "title": "Technology Assessment",
+          "description": "Objective evaluation of your tech stack, identifying risks, technical debt, and opportunities for improvement."
+        },
+        "augmentation": {
+          "title": "Team Augmentation",
+          "description": "Experienced engineers who integrate with your team to accelerate delivery and transfer knowledge."
+        },
+        "optimization": {
+          "title": "Process Optimization",
+          "description": "Streamline your development workflow with CI/CD, DevOps best practices, and agile process improvements."
+        }
+      },
+      "testimonial": {
+        "quote": "Their architecture review saved us from a costly mistake and set us on a path to scale confidently.",
+        "author": "CEO, Growing Startup"
+      },
+      "seo": {
+        "title": "Technical Consulting Services | Samix Technology",
+        "description": "Strategic technical consulting — architecture review, technology assessment, team augmentation, and process optimization. Get a free consultation today."
+      }
+    }
+  },
   "leakreportSupport": {
     "title": "LeakReport Support",
     "subtitle": "Help for the LeakReport mobile app",

@@ -20,7 +20,14 @@
       "Bash(sudo systemctl restart:*)",
       "WebFetch(domain:get-sphynx.com)",
       "WebFetch(domain:burnwood.app)",
-      "WebFetch(domain:helioswarm.samix-technology.com)"
+      "WebFetch(domain:helioswarm.samix-technology.com)",
+      "Bash(ls -la /Users/evanb/samix-technology-1/src/app/[locale]/)",
+      "Bash(find /Users/evanb/samix-technology-1/src/app/[locale] -type d)",
+      "Bash(git pull)",
+      "Bash(npx next build)",
+      "Bash(npx tsc --noEmit)",
+      "Bash(node -e \"JSON.parse\\(require\\(''fs''\\).readFileSync\\(''messages/en.json'',''utf8''\\)\\); console.log\\(''en.json: valid''\\)\")",
+      "Bash(node -e \"JSON.parse\\(require\\(''fs''\\).readFileSync\\(''messages/fr.json'',''utf8''\\)\\); console.log\\(''fr.json: valid''\\)\")"
     ]
   }
 }

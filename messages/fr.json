@@ -206,6 +206,165 @@
     "en": "English",
     "fr": "Francais"
   },
+  "landing": {
+    "header": {
+      "cta": "Consultation Gratuite",
+      "learnMore": "En Savoir Plus"
+    },
+    "footer": {
+      "copyright": "Samix Technology. Opere par SPHYNX SASU.",
+      "backToSite": "Visiter notre site principal"
+    },
+    "form": {
+      "title": "Lancez Votre Projet",
+      "subtitle": "Parlez-nous de vos besoins et nous vous repondrons sous 24 heures.",
+      "name": "Votre Nom",
+      "email": "Votre Email",
+      "company": "Entreprise (optionnel)",
+      "message": "Parlez-nous de votre projet",
+      "namePlaceholder": "Jean Dupont",
+      "emailPlaceholder": "jean@entreprise.com",
+      "companyPlaceholder": "Votre entreprise",
+      "messagePlaceholder": "Decrivez ce dont vous avez besoin...",
+      "submit": "Obtenir une Consultation Gratuite",
+      "sending": "Envoi en cours...",
+      "successTitle": "Message recu !",
+      "successMessage": "Notre equipe vous repondra sous 24 heures.",
+      "error": "Une erreur est survenue. Veuillez reessayer ou nous contacter directement par email."
+    },
+    "proof": {
+      "experienceYears": "10+",
+      "experienceLabel": "Annees d'Experience",
+      "satisfactionValue": "100%",
+      "satisfactionLabel": "Satisfaction Client",
+      "supportValue": "24/7",
+      "supportLabel": "Support Disponible"
+    },
+    "softwareDev": {
+      "badge": "Services de Developpement Logiciel",
+      "headline": "Des Logiciels Sur Mesure pour Propulser Votre Entreprise",
+      "subheadline": "De la conception au deploiement, nous construisons des solutions logicielles evolutives et maintenables, adaptees a vos besoins exacts.",
+      "benefits": {
+        "fullstack": {
+          "title": "Developpement Full-Stack",
+          "description": "Developpement complet d'applications web et mobiles avec des frameworks modernes et les meilleures pratiques."
+        },
+        "api": {
+          "title": "Conception et Integration d'API",
+          "description": "APIs RESTful et GraphQL qui connectent vos systemes de maniere transparente et evoluent avec votre croissance."
+        },
+        "cloud": {
+          "title": "Applications Cloud-Native",
+          "description": "Applications concues pour le cloud des le premier jour avec conteneurisation et pipelines CI/CD."
+        },
+        "legacy": {
+          "title": "Modernisation de Systemes Legacy",
+          "description": "Donnez une nouvelle vie a vos systemes vieillissants. Nous migrons et modernisons sans perturber vos operations."
+        }
+      },
+      "testimonial": {
+        "quote": "Samix Technology a transforme notre plateforme obsolete en une solution moderne et evolutive que notre equipe adore utiliser.",
+        "author": "CTO, Client Entreprise"
+      },
+      "seo": {
+        "title": "Services de Developpement Logiciel | Samix Technology",
+        "description": "Developpement logiciel expert — full-stack, conception d'API, applications cloud-native et modernisation legacy. Consultation gratuite."
+      }
+    },
+    "dataEng": {
+      "badge": "Services d'Ingenierie de Donnees",
+      "headline": "Transformez vos Donnees Brutes en Intelligence Business",
+      "subheadline": "Nous concevons et implementons des pipelines de donnees robustes, des entrepots et des solutions analytiques qui transforment vos donnees en avantage competitif.",
+      "benefits": {
+        "etl": {
+          "title": "Pipelines ETL/ELT",
+          "description": "Pipelines de donnees fiables et evolutifs qui extraient, transforment et chargent les donnees de n'importe quelle source vers n'importe quelle destination."
+        },
+        "warehouse": {
+          "title": "Entreposage de Donnees",
+          "description": "Architecture moderne d'entrepot de donnees sur Snowflake, BigQuery ou Redshift — concue pour la performance et l'efficacite."
+        },
+        "realtime": {
+          "title": "Analytique Temps Reel",
+          "description": "Traitement de flux et tableaux de bord en temps reel pour une visibilite instantanee sur vos metriques business."
+        },
+        "governance": {
+          "title": "Qualite et Gouvernance des Donnees",
+          "description": "Cadres de qualite des donnees, tracabilite et politiques de gouvernance pour des donnees fiables dans toute votre organisation."
+        }
+      },
+      "testimonial": {
+        "quote": "Leur equipe d'ingenierie de donnees a construit un pipeline qui a reduit notre temps de reporting de plusieurs jours a quelques minutes.",
+        "author": "Directeur Data, Entreprise d'Analytique"
+      },
+      "seo": {
+        "title": "Services d'Ingenierie de Donnees | Samix Technology",
+        "description": "Ingenierie de donnees experte — pipelines ETL, entreposage, analytique temps reel et gouvernance des donnees. Consultation gratuite."
+      }
+    },
+    "dba": {
+      "badge": "Services d'Administration de Bases de Donnees",
+      "headline": "Des Performances de Base de Donnees Fiables",
+      "subheadline": "Services DBA experts pour garder vos bases de donnees optimisees, securisees et toujours disponibles — pour que vous puissiez vous concentrer sur la croissance.",
+      "benefits": {
+        "performance": {
+          "title": "Optimisation des Performances",
+          "description": "Optimisation des requetes, tuning d'index et ajustements de configuration qui ameliorent considerablement les temps de reponse."
+        },
+        "availability": {
+          "title": "Haute Disponibilite",
+          "description": "Architectures de bases de donnees toujours actives avec basculement, replication et reprise apres sinistre integres."
+        },
+        "backup": {
+          "title": "Sauvegarde et Recuperation",
+          "description": "Strategies de sauvegarde completes et procedures de recuperation testees pour proteger votre actif le plus precieux — vos donnees."
+        },
+        "security": {
+          "title": "Renforcement de la Securite",
+          "description": "Audits de securite, chiffrement, controles d'acces et configurations de conformite pour proteger vos bases de donnees."
+        }
+      },
+      "testimonial": {
+        "quote": "Apres l'optimisation par Samix, les temps de requete ont chute de 80% et notre disponibilite est irreprochable.",
+        "author": "VP Ingenierie, Entreprise SaaS"
+      },
+      "seo": {
+        "title": "Services d'Administration de Bases de Donnees (DBA) | Samix Technology",
+        "description": "Services DBA experts — optimisation des performances, haute disponibilite, sauvegarde et recuperation, securite. Consultation gratuite."
+      }
+    },
+    "consulting": {
+      "badge": "Services de Conseil Technique",
+      "headline": "Un Accompagnement Technologique Strategique pour un Succes Durable",
+      "subheadline": "Nous vous aidons a prendre les bonnes decisions technologiques — de la revue d'architecture au renfort d'equipe — pour construire sur des bases solides.",
+      "benefits": {
+        "architecture": {
+          "title": "Revue d'Architecture",
+          "description": "Revue approfondie de votre architecture systeme avec des recommandations concretes pour l'evolutivite et la fiabilite."
+        },
+        "assessment": {
+          "title": "Evaluation Technologique",
+          "description": "Evaluation objective de votre stack technique, identifiant les risques, la dette technique et les opportunites d'amelioration."
+        },
+        "augmentation": {
+          "title": "Renfort d'Equipe",
+          "description": "Ingenieurs experimentes qui s'integrent a votre equipe pour accelerer la livraison et transferer les competences."
+        },
+        "optimization": {
+          "title": "Optimisation des Processus",
+          "description": "Rationalisez votre flux de developpement avec CI/CD, les meilleures pratiques DevOps et des ameliorations agiles."
+        }
+      },
+      "testimonial": {
+        "quote": "Leur revue d'architecture nous a evite une erreur couteuse et nous a mis sur la voie d'une croissance sereine.",
+        "author": "CEO, Startup en Croissance"
+      },
+      "seo": {
+        "title": "Services de Conseil Technique | Samix Technology",
+        "description": "Conseil technique strategique — revue d'architecture, evaluation technologique, renfort d'equipe et optimisation des processus. Consultation gratuite."
+      }
+    }
+  },
   "leakreportSupport": {
     "title": "Support LeakReport",
     "subtitle": "Aide pour l'application mobile LeakReport",
