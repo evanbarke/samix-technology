@@ -1,13 +1,16 @@
 "use client";
 
-import { useTranslations } from "next-intl";
+import Link from "next/link";
+import { useTranslations, useLocale } from "next-intl";
 
 export default function Services() {
   const t = useTranslations("services");
+  const locale = useLocale();
 
   const services = [
     {
       key: "softwareDev",
+      route: "software-development",
       icon: (
         <svg
           className="w-8 h-8"
@@ -27,6 +30,7 @@ export default function Services() {
     },
     {
       key: "dataEng",
+      route: "data-engineering",
       icon: (
         <svg
           className="w-8 h-8"
@@ -46,6 +50,7 @@ export default function Services() {
     },
     {
       key: "dba",
+      route: "database-administration",
       icon: (
         <svg
           className="w-8 h-8"
@@ -65,6 +70,7 @@ export default function Services() {
     },
     {
       key: "consulting",
+      route: "technical-consulting",
       icon: (
         <svg
           className="w-8 h-8"
@@ -99,9 +105,10 @@ export default function Services() {
         {/* Services Grid */}
         <div className="grid md:grid-cols-2 gap-6 lg:gap-8">
           {services.map((service) => (
-            <div
+            <Link
               key={service.key}
-              className="glass-card p-8 hover:border-primary-500/30 transition-all duration-300 group"
+              href={`/${locale}/services/${service.route}`}
+              className="glass-card p-8 hover:border-primary-500/30 transition-all duration-300 group block"
             >
               <div className="flex items-start space-x-4">
                 <div className="flex-shrink-0 w-14 h-14 bg-primary-500/10 rounded-xl flex items-center justify-center text-primary-400 group-hover:bg-primary-500/20 transition-colors">
@@ -137,9 +144,15 @@ export default function Services() {
                       </li>
                     ))}
                   </ul>
+                  <span className="inline-flex items-center mt-4 text-sm text-primary-400 group-hover:text-primary-300 transition-colors">
+                    {t("learnMore")}
+                    <svg className="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    </svg>
+                  </span>
                 </div>
               </div>
-            </div>
+            </Link>
           ))}
         </div>
       </div>

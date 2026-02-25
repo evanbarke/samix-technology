@@ -24,6 +24,7 @@
     "title1": "Ce que nous ",
     "title2": "Proposons",
     "subtitle": "Samix Consulting offre des services technologiques complets pour aider les entreprises a prosperer a l'ere numerique.",
+    "learnMore": "En savoir plus",
     "softwareDev": {
       "title": "Developpement Logiciel",
       "description": "Solutions logicielles sur mesure adaptees aux besoins de votre entreprise. Des applications web aux systemes d'entreprise, nous construisons des logiciels evolutifs et maintenables.",
@@ -263,8 +264,8 @@
         }
       },
       "testimonial": {
-        "quote": "Samix Technology a transforme notre plateforme obsolete en une solution moderne et evolutive que notre equipe adore utiliser.",
-        "author": "CTO, Client Entreprise"
+        "quote": "Samix Technology a developpe l'application LeakReport pour nous, simplifiant totalement notre processus de generation de rapports sur le terrain. Ce qui prenait des heures de paperasse se fait maintenant en quelques clics.",
+        "author": "Emmanuel, Canasolutions"
       },
       "seo": {
         "title": "Services de Developpement Logiciel | Samix Technology",
@@ -294,8 +295,8 @@
         }
       },
       "testimonial": {
-        "quote": "Leur equipe d'ingenierie de donnees a construit un pipeline qui a reduit notre temps de reporting de plusieurs jours a quelques minutes.",
-        "author": "Directeur Data, Entreprise d'Analytique"
+        "quote": "La plateforme d'analytique temps reel que Samix a construite sur Azure — avec le streaming analytics depuis nos serres et les tablettes de collecte de donnees alimentant un data lake — a transforme nos capacites BI et nous a donne des insights inedits.",
+        "author": "Rachid Habchane, Azura Group"
       },
       "seo": {
         "title": "Services d'Ingenierie de Donnees | Samix Technology",
@@ -324,10 +325,6 @@
           "description": "Audits de securite, chiffrement, controles d'acces et configurations de conformite pour proteger vos bases de donnees."
         }
       },
-      "testimonial": {
-        "quote": "Apres l'optimisation par Samix, les temps de requete ont chute de 80% et notre disponibilite est irreprochable.",
-        "author": "VP Ingenierie, Entreprise SaaS"
-      },
       "seo": {
         "title": "Services d'Administration de Bases de Donnees (DBA) | Samix Technology",
         "description": "Services DBA experts — optimisation des performances, haute disponibilite, sauvegarde et recuperation, securite. Consultation gratuite."
@@ -354,10 +351,6 @@
           "title": "Optimisation des Processus",
           "description": "Rationalisez votre flux de developpement avec CI/CD, les meilleures pratiques DevOps et des ameliorations agiles."
         }
-      },
-      "testimonial": {
-        "quote": "Leur revue d'architecture nous a evite une erreur couteuse et nous a mis sur la voie d'une croissance sereine.",
-        "author": "CEO, Startup en Croissance"
       },
       "seo": {
         "title": "Services de Conseil Technique | Samix Technology",

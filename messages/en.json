@@ -24,6 +24,7 @@
     "title1": "What We ",
     "title2": "Offer",
     "subtitle": "Samix Consulting provides comprehensive technology services to help businesses thrive in the digital age.",
+    "learnMore": "Learn more",
     "softwareDev": {
       "title": "Software Development",
       "description": "Custom software solutions tailored to your business needs. From web applications to enterprise systems, we build scalable and maintainable software.",
@@ -263,8 +264,8 @@
         }
       },
       "testimonial": {
-        "quote": "Samix Technology transformed our outdated platform into a modern, scalable solution that our team loves to work with.",
-        "author": "CTO, Enterprise Client"
+        "quote": "Samix Technology built the LeakReport app for us, completely simplifying our report generation process in the field. What used to take hours of paperwork now happens in a few taps.",
+        "author": "Emmanuel, Canasolutions"
       },
       "seo": {
         "title": "Custom Software Development Services | Samix Technology",
@@ -294,8 +295,8 @@
         }
       },
       "testimonial": {
-        "quote": "Their data engineering team built a pipeline that reduced our reporting time from days to minutes.",
-        "author": "Head of Data, Analytics Company"
+        "quote": "The real-time analytics platform Samix built on Azure — with streaming analytics from our greenhouses and data collection tablets feeding into a data lake — has transformed our BI capabilities and given us insights we never had before.",
+        "author": "Rachid Habchane, Azura Group"
       },
       "seo": {
         "title": "Data Engineering Services | Samix Technology",
@@ -324,10 +325,6 @@
           "description": "Database security audits, encryption, access controls, and compliance configurations that keep threats out."
         }
       },
-      "testimonial": {
-        "quote": "After Samix optimized our database, query times dropped by 80% and our uptime has been flawless.",
-        "author": "VP of Engineering, SaaS Company"
-      },
       "seo": {
         "title": "Database Administration (DBA) Services | Samix Technology",
         "description": "Expert DBA services — performance tuning, high availability, backup & recovery, and security hardening. Get a free consultation today."
@@ -354,10 +351,6 @@
           "title": "Process Optimization",
           "description": "Streamline your development workflow with CI/CD, DevOps best practices, and agile process improvements."
         }
-      },
-      "testimonial": {
-        "quote": "Their architecture review saved us from a costly mistake and set us on a path to scale confidently.",
-        "author": "CEO, Growing Startup"
       },
       "seo": {
         "title": "Technical Consulting Services | Samix Technology",

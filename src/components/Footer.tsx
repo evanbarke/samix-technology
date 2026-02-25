@@ -31,7 +31,7 @@ export default function Footer() {
             <ul className="space-y-2">
               <li>
                 <Link
-                  href="#services"
+                  href={`/${locale}/services/software-development`}
                   className="text-dark-400 hover:text-primary-400 transition-colors text-sm"
                 >
                   {t("softwareDev")}
@@ -39,7 +39,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="#services"
+                  href={`/${locale}/services/data-engineering`}
                   className="text-dark-400 hover:text-primary-400 transition-colors text-sm"
                 >
                   {t("dataEng")}
@@ -47,7 +47,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="#services"
+                  href={`/${locale}/services/database-administration`}
                   className="text-dark-400 hover:text-primary-400 transition-colors text-sm"
                 >
                   {t("dba")}
@@ -55,7 +55,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="#services"
+                  href={`/${locale}/services/technical-consulting`}
                   className="text-dark-400 hover:text-primary-400 transition-colors text-sm"
                 >
                   {t("consulting")}
