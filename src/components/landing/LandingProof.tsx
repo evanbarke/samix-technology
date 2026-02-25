@@ -49,6 +49,30 @@ export default function LandingProof({ serviceKey }: LandingProofProps) {
           </div>
         )}
 
+        {/* Creator / About Section (DBA) */}
+        {serviceKey === "dba" && (
+          <div className="glass-card p-8 md:p-12 mb-16">
+            <div className="flex items-start space-x-5">
+              <div className="flex-shrink-0 w-14 h-14 bg-primary-500/10 rounded-xl flex items-center justify-center text-primary-400">
+                <svg className="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M5.121 17.804A13.937 13.937 0 0112 16c2.5 0 4.847.655 6.879 1.804M15 10a3 3 0 11-6 0 3 3 0 016 0zm6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+              </div>
+              <div>
+                <h3 className="text-xl font-semibold text-white mb-3">
+                  {t("dba.creator.heading")}
+                </h3>
+                <p className="text-dark-300 leading-relaxed mb-3">
+                  {t("dba.creator.description")}
+                </p>
+                <p className="text-primary-400 font-medium">
+                  {t("dba.creator.closing")}
+                </p>
+              </div>
+            </div>
+          </div>
+        )}
+
         {/* Trust Stats */}
         <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto">
           {stats.map((stat) => (

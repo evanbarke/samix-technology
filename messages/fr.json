@@ -333,6 +333,11 @@
           "description": "Audits de securite, chiffrement, controles d'acces et configurations de conformite pour proteger vos bases de donnees."
         }
       },
+      "creator": {
+        "heading": "Concu par un DBA, pour les DBAs",
+        "description": "Notre pratique DBA est dirigee par Evan Barke, specialiste en performance de bases de donnees avec plus de 15 ans d'experience dans l'optimisation d'environnements SQL Server. Il a meme cree AutoDBA chez Samix Technology — combinant des annees d'expertise terrain avec l'IA de pointe pour resoudre les problemes auxquels les DBAs font face au quotidien.",
+        "closing": "Nous comprenons vos defis parce que nous les avons vecus."
+      },
       "seo": {
         "title": "Services d'Administration de Bases de Donnees (DBA) | Samix Technology",
         "description": "Services DBA experts — optimisation des performances, haute disponibilite, sauvegarde et recuperation, securite. Consultation gratuite."

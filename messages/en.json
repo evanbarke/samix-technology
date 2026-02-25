@@ -333,6 +333,11 @@
           "description": "Database security audits, encryption, access controls, and compliance configurations that keep threats out."
         }
       },
+      "creator": {
+        "heading": "Built by a DBA, for DBAs",
+        "description": "Our DBA practice is led by Evan Barke, a database performance specialist with 15+ years of experience optimizing SQL Server environments. He even built AutoDBA at Samix Technology — combining years of real-world expertise with cutting-edge AI to solve the problems DBAs face every day.",
+        "closing": "We understand your challenges because we've lived them."
+      },
       "seo": {
         "title": "Database Administration (DBA) Services | Samix Technology",
         "description": "Expert DBA services — performance tuning, high availability, backup & recovery, and security hardening. Get a free consultation today."
