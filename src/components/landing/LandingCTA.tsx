@@ -17,6 +17,7 @@ export default function LandingCTA({ serviceValue }: LandingCTAProps) {
     company: "",
     service: serviceValue,
     message: "",
+    website: "", // honeypot field
   });
   const [status, setStatus] = useState<FormStatus>("idle");
   const [errorMessage, setErrorMessage] = useState("");
@@ -63,6 +64,7 @@ export default function LandingCTA({ serviceValue }: LandingCTAProps) {
         company: "",
         service: serviceValue,
         message: "",
+        website: "",
       });
     } catch {
       setStatus("error");
@@ -214,6 +216,20 @@ export default function LandingCTA({ serviceValue }: LandingCTAProps) {
                     onChange={handleChange}
                     className="w-full px-4 py-3 bg-dark-800/50 border border-dark-700 rounded-lg text-white placeholder-dark-500 focus:outline-none focus:border-primary-500 transition-colors resize-none"
                     placeholder={t("form.messagePlaceholder")}
+                  />
+                </div>
+
+                {/* Honeypot field - hidden from humans, bots fill it */}
+                <div aria-hidden="true" style={{ position: "absolute", left: "-9999px", top: "-9999px" }}>
+                  <label htmlFor="website-hp">Website</label>
+                  <input
+                    type="text"
+                    id="website-hp"
+                    name="website"
+                    value={formData.website}
+                    onChange={handleChange}
+                    tabIndex={-1}
+                    autoComplete="off"
                   />
                 </div>
 

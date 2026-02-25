@@ -11,10 +11,44 @@ interface ContactFormData {
 
 sgMail.setApiKey(process.env.SENDGRID_API_KEY || "");
 
+// Detect gibberish: random strings with too many consonant clusters and no real words
+function isGibberish(text: string): boolean {
+  if (!text || text.length < 5) return false;
+  const words = text.trim().split(/\s+/);
+  // Check if most "words" have unusual consonant patterns
+  const gibberishWords = words.filter((word) => {
+    // More than 3 consecutive consonants is suspicious
+    if (/[bcdfghjklmnpqrstvwxyz]{4,}/i.test(word)) return true;
+    // Very long words with mixed case and no vowel patterns
+    if (word.length > 10 && !/[aeiou]{2,}/i.test(word)) return true;
+    return false;
+  });
+  // If more than half the words look like gibberish, flag it
+  return words.length > 0 && gibberishWords.length / words.length > 0.5;
+}
+
 export async function POST(request: Request) {
   try {
-    const body: ContactFormData = await request.json();
-    const { name, email, company, service, message } = body;
+    const body: ContactFormData & { website?: string } = await request.json();
+    const { name, email, company, service, message, website } = body;
+
+    // Honeypot check — real users never fill this hidden field
+    if (website) {
+      // Silently accept but don't send email (don't tip off the bot)
+      return NextResponse.json(
+        { message: "Message sent successfully" },
+        { status: 200 }
+      );
+    }
+
+    // Gibberish detection
+    if (isGibberish(name) || isGibberish(message) || (company && isGibberish(company))) {
+      // Silently accept but don't send email
+      return NextResponse.json(
+        { message: "Message sent successfully" },
+        { status: 200 }
+      );
+    }
 
     // Validate required fields
     if (!name || !email || !message) {
