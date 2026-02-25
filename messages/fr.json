@@ -110,6 +110,16 @@
         "exchange": "Support multi-exchange",
         "risk": "Gestion avancee des risques"
       }
+    },
+    "autodba": {
+      "tagline": "Administration SQL Server amelioree par l'IA",
+      "description": "Une plateforme de diagnostic et d'optimisation alimentee par l'IA pour les bases de donnees SQL Server. Executez un snapshot de diagnostic, telechargez en toute securite et recevez des recommandations de niveau expert avec des correctifs T-SQL exploitables, des estimations d'impact et des commandes de rollback.",
+      "features": {
+        "ai": "Analyse IA qui s'ameliore a chaque snapshot",
+        "diagnostics": "Diagnostic de configuration, index, statistiques d'attente et requetes",
+        "security": "Chiffrement de bout en bout RSA-2048 et AES-256",
+        "sqlserver": "Optimise pour SQL Server 2016-2025"
+      }
     }
   },
   "about": {

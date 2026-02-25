@@ -36,6 +36,14 @@ const products = [
     accentColor: "#06b6d4",
     featureKeys: ["ml", "execution", "exchange", "risk"],
   },
+  {
+    name: "AutoDBA",
+    key: "autodba",
+    url: "https://autodba.samix-technology.com",
+    gradient: "from-emerald-500 to-teal-500",
+    accentColor: "#10b981",
+    featureKeys: ["ai", "diagnostics", "security", "sqlserver"],
+  },
 ];
 
 export default function Products() {

@@ -110,6 +110,16 @@
         "exchange": "Multi-exchange support",
         "risk": "Advanced risk management"
       }
+    },
+    "autodba": {
+      "tagline": "AI-Enhanced SQL Server Administration",
+      "description": "An AI-powered diagnostic and optimization platform for SQL Server databases. Run a diagnostic snapshot, upload securely, and receive expert-level recommendations with actionable T-SQL fixes, impact estimates, and rollback commands.",
+      "features": {
+        "ai": "AI-powered analysis that learns with every snapshot",
+        "diagnostics": "Configuration, index, wait stats & query diagnostics",
+        "security": "RSA-2048 & AES-256 end-to-end encryption",
+        "sqlserver": "Optimized for SQL Server 2016-2025"
+      }
     }
   },
   "about": {
