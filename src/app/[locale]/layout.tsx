@@ -58,7 +58,11 @@ export default async function LocaleLayout({ children, params }: Props) {
 
   return (
     <html lang={locale} className="dark">
-      <head>
+      <head />
+      <body className={`${inter.variable} ${jetbrainsMono.variable}`}>
+        <NextIntlClientProvider messages={messages}>
+          {children}
+        </NextIntlClientProvider>
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=AW-17976215107"
           strategy="afterInteractive"
@@ -71,11 +75,6 @@ export default async function LocaleLayout({ children, params }: Props) {
             gtag('config', 'AW-17976215107');
           `}
         </Script>
-      </head>
-      <body className={`${inter.variable} ${jetbrainsMono.variable}`}>
-        <NextIntlClientProvider messages={messages}>
-          {children}
-        </NextIntlClientProvider>
       </body>
     </html>
   );
