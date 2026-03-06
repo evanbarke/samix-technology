@@ -27,42 +27,42 @@
     "learnMore": "Learn more",
     "softwareDev": {
       "title": "Software Development",
-      "description": "Custom software solutions tailored to your business needs. From web applications to enterprise systems, we build scalable and maintainable software.",
+      "description": "Custom software solutions that integrate AI where it delivers real value. From AI-powered applications to LLM integrations, we build software that learns and scales.",
       "features": {
-        "fullstack": "Full-stack development",
-        "api": "API design & integration",
+        "fullstack": "AI-powered application development",
+        "api": "LLM integration & AI APIs",
         "cloud": "Cloud-native applications",
         "legacy": "Legacy system modernization"
       }
     },
     "dataEng": {
       "title": "Data Engineering",
-      "description": "Transform raw data into actionable insights. We design and implement robust data pipelines, warehouses, and analytics solutions.",
+      "description": "AI-augmented data pipelines and platforms built to handle structured and unstructured data at scale. We design the data infrastructure that makes AI possible.",
       "features": {
-        "etl": "ETL/ELT pipelines",
-        "warehouse": "Data warehousing",
-        "realtime": "Real-time analytics",
-        "governance": "Data quality & governance"
+        "etl": "AI-augmented pipeline design",
+        "warehouse": "Data warehousing & lakehouse architecture",
+        "realtime": "Automated data quality monitoring",
+        "governance": "LLM integration for unstructured data"
       }
     },
     "dba": {
       "title": "Database Administration",
-      "description": "Expert DBA services to ensure your databases are optimized, secure, and always available. We handle the complexity so you can focus on growth.",
+      "description": "DBA services amplified by AI tooling we built ourselves. AutoDBA brings AI-powered diagnostics and predictive tuning to your SQL Server environment.",
       "features": {
-        "performance": "Performance tuning",
-        "availability": "High availability setup",
-        "backup": "Backup & recovery",
-        "security": "Security hardening"
+        "performance": "AI-powered diagnostics & analysis",
+        "availability": "Predictive performance tuning",
+        "backup": "Intelligent monitoring & alerting",
+        "security": "Security hardening & compliance"
       }
     },
     "consulting": {
-      "title": "Technical Consulting",
-      "description": "Strategic guidance for your technology decisions. We help you choose the right architecture, tools, and processes for long-term success.",
+      "title": "AI & Technology Strategy",
+      "description": "Strategic guidance on where AI delivers real ROI versus hype. We help you build AI-ready platforms, evaluate tools, and make technology decisions that last.",
       "features": {
-        "architecture": "Architecture review",
-        "assessment": "Technology assessment",
-        "augmentation": "Team augmentation",
-        "optimization": "Process optimization"
+        "architecture": "AI readiness & ROI assessment",
+        "assessment": "Architecture review for AI-ready platforms",
+        "augmentation": "Tool selection & vendor assessment",
+        "optimization": "Data strategy & modernization roadmap"
       }
     }
   },
@@ -177,7 +177,7 @@
       "softwareDev": "Software Development",
       "dataEng": "Data Engineering",
       "dba": "Database Administration",
-      "consulting": "Technical Consulting",
+      "consulting": "AI & Technology Strategy",
       "other": "Other",
       "sendMessage": "Send Message",
       "sending": "Sending...",
@@ -243,24 +243,24 @@
     },
     "softwareDev": {
       "badge": "Software Development Services",
-      "headline": "Custom Software That Drives Your Business Forward",
-      "subheadline": "From concept to deployment, we build scalable, maintainable software solutions tailored to your exact business requirements.",
+      "headline": "Software That Integrates AI Where It Actually Matters",
+      "subheadline": "From AI-powered applications to LLM integrations, we build software that delivers real intelligence — not just a chatbot bolted on.",
       "benefits": {
         "fullstack": {
-          "title": "Full-Stack Development",
-          "description": "End-to-end development of web and mobile applications using modern frameworks and best practices."
+          "title": "AI-Powered Application Development",
+          "description": "End-to-end development of web and mobile applications with AI capabilities built in from the ground up, not added as an afterthought."
         },
         "api": {
-          "title": "API Design & Integration",
-          "description": "RESTful and GraphQL APIs that connect your systems seamlessly and scale with your growth."
+          "title": "LLM Integration & AI APIs",
+          "description": "Integrate large language models and AI services into your products — from OpenAI and Anthropic to self-hosted models — with production-grade reliability."
         },
         "cloud": {
           "title": "Cloud-Native Applications",
-          "description": "Applications built for the cloud from day one with containerization and CI/CD pipelines."
+          "description": "Applications built for the cloud from day one with containerization, CI/CD pipelines, and the scalability to handle AI workloads."
         },
         "legacy": {
-          "title": "Legacy Modernization",
-          "description": "Breathe new life into aging systems. We migrate and modernize without disrupting your operations."
+          "title": "Legacy System Modernization",
+          "description": "Breathe new life into aging systems. We migrate and modernize without disrupting your operations — and position you for AI readiness."
         }
       },
       "testimonials": [
@@ -276,24 +276,24 @@
     },
     "dataEng": {
       "badge": "Data Engineering Services",
-      "headline": "Turn Your Raw Data Into Business Intelligence",
-      "subheadline": "We design and implement robust data pipelines, warehouses, and analytics solutions that transform data into your competitive advantage.",
+      "headline": "The Data Infrastructure That Makes AI Possible",
+      "subheadline": "AI is only as good as the data behind it. We design AI-augmented pipelines and platforms that handle structured and unstructured data at scale.",
       "benefits": {
         "etl": {
-          "title": "ETL/ELT Pipelines",
-          "description": "Reliable, scalable data pipelines that extract, transform, and load data from any source to any destination."
+          "title": "AI-Augmented Pipeline Design",
+          "description": "Intelligent data pipelines that don't just move data — they validate, enrich, and flag anomalies automatically using ML-based quality checks."
         },
         "warehouse": {
-          "title": "Data Warehousing",
-          "description": "Modern data warehouse architecture on Snowflake, BigQuery, or Redshift — designed for performance and cost-efficiency."
+          "title": "Data Warehousing & Lakehouse Architecture",
+          "description": "Modern lakehouse and warehouse architecture on Snowflake, Databricks, BigQuery, or Redshift — built for both BI and AI workloads."
         },
         "realtime": {
-          "title": "Real-Time Analytics",
-          "description": "Stream processing and real-time dashboards that give you instant visibility into your business metrics."
+          "title": "Automated Data Quality Monitoring",
+          "description": "Proactive monitoring that catches data issues before they reach your models or dashboards, with automated alerting and root-cause analysis."
         },
         "governance": {
-          "title": "Data Quality & Governance",
-          "description": "Data quality frameworks, lineage tracking, and governance policies that ensure trustworthy data across your organization."
+          "title": "LLM Integration for Unstructured Data",
+          "description": "Unlock value in documents, emails, and text with LLM-powered extraction, classification, and embedding pipelines integrated into your data platform."
         }
       },
       "testimonials": [
@@ -313,24 +313,24 @@
     },
     "dba": {
       "badge": "Database Administration Services",
-      "headline": "Database Performance You Can Count On",
-      "subheadline": "Expert DBA services to keep your databases optimized, secure, and always available — so you can focus on growing your business.",
+      "headline": "DBA Services Amplified by AI Tooling We Built Ourselves",
+      "subheadline": "We don't just offer traditional DBA services — we bring AutoDBA, an AI-powered diagnostic platform built in-house, to bear on your SQL Server environment.",
       "benefits": {
         "performance": {
-          "title": "Performance Tuning",
-          "description": "Query optimization, index tuning, and configuration adjustments that dramatically improve response times."
+          "title": "AI-Powered Diagnostics & Analysis",
+          "description": "AutoDBA analyzes configuration, index health, wait stats, and query patterns to surface expert-level recommendations with actionable T-SQL fixes."
         },
         "availability": {
-          "title": "High Availability Setup",
-          "description": "Always-on database architectures with failover, replication, and disaster recovery built in."
+          "title": "Predictive Performance Tuning",
+          "description": "Move from reactive firefighting to predictive tuning — identifying performance degradation trends before they become outages."
         },
         "backup": {
-          "title": "Backup & Recovery",
-          "description": "Comprehensive backup strategies and tested recovery procedures that protect your most valuable asset — your data."
+          "title": "Intelligent Monitoring & Alerting",
+          "description": "AI-driven monitoring that distinguishes signal from noise, so you get alerted on what matters and not overwhelmed by false positives."
         },
         "security": {
-          "title": "Security Hardening",
-          "description": "Database security audits, encryption, access controls, and compliance configurations that keep threats out."
+          "title": "Security Hardening & Compliance",
+          "description": "Database security audits, encryption, access controls, and compliance configurations that keep threats out and auditors satisfied."
         }
       },
       "creator": {
@@ -344,30 +344,30 @@
       }
     },
     "consulting": {
-      "badge": "Technical Consulting Services",
-      "headline": "Strategic Technology Guidance for Lasting Success",
-      "subheadline": "We help you make the right technology decisions — from architecture review to team augmentation — so you build on a foundation that scales.",
+      "badge": "AI & Technology Strategy",
+      "headline": "Cut Through the AI Hype. Build What Actually Works.",
+      "subheadline": "We help you identify where AI delivers genuine ROI, design the architecture to support it, and make technology decisions grounded in practical experience — not vendor pitches.",
       "benefits": {
         "architecture": {
-          "title": "Architecture Review",
-          "description": "Comprehensive review of your system architecture with actionable recommendations for scalability and reliability."
+          "title": "AI Readiness & ROI Assessment",
+          "description": "An honest evaluation of where AI integration will move the needle for your business versus where it adds complexity without value."
         },
         "assessment": {
-          "title": "Technology Assessment",
-          "description": "Objective evaluation of your tech stack, identifying risks, technical debt, and opportunities for improvement."
+          "title": "Architecture Review for AI-Ready Platforms",
+          "description": "Assess your current data and application architecture against what's needed to support AI workloads reliably and at scale."
         },
         "augmentation": {
-          "title": "Team Augmentation",
-          "description": "Experienced engineers who integrate with your team to accelerate delivery and transfer knowledge."
+          "title": "Tool Selection & Vendor Assessment",
+          "description": "Navigate the crowded AI and data tooling landscape with independent, vendor-neutral guidance based on real-world implementation experience."
         },
         "optimization": {
-          "title": "Process Optimization",
-          "description": "Streamline your development workflow with CI/CD, DevOps best practices, and agile process improvements."
+          "title": "Data Strategy & Modernization Roadmap",
+          "description": "A clear path from your current state to an AI-ready data platform — prioritized by business impact and sequenced for realistic execution."
         }
       },
       "seo": {
-        "title": "Technical Consulting Services | Samix Technology",
-        "description": "Strategic technical consulting — architecture review, technology assessment, team augmentation, and process optimization. Get a free consultation today."
+        "title": "AI & Technology Strategy Consulting | Samix Technology",
+        "description": "Practical AI strategy and technology consulting — AI readiness assessment, architecture review, tool selection, and data modernization roadmap. Get a free consultation today."
       }
     }
   },

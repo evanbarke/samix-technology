@@ -27,42 +27,42 @@
     "learnMore": "En savoir plus",
     "softwareDev": {
       "title": "Developpement Logiciel",
-      "description": "Solutions logicielles sur mesure adaptees aux besoins de votre entreprise. Des applications web aux systemes d'entreprise, nous construisons des logiciels evolutifs et maintenables.",
+      "description": "Solutions logicielles sur mesure qui integrent l'IA la ou elle apporte une vraie valeur. Des applications boostees par l'IA aux integrations LLM, nous construisons des logiciels qui apprennent et passent a l'echelle.",
       "features": {
-        "fullstack": "Developpement full-stack",
-        "api": "Conception et integration d'API",
+        "fullstack": "Developpement d'applications IA",
+        "api": "Integration LLM & API IA",
         "cloud": "Applications cloud-native",
         "legacy": "Modernisation de systemes legacy"
       }
     },
     "dataEng": {
       "title": "Ingenierie de Donnees",
-      "description": "Transformez vos donnees brutes en insights exploitables. Nous concevons et implementons des pipelines de donnees robustes, des entrepots et des solutions analytiques.",
+      "description": "Pipelines et plateformes de donnees augmentes par l'IA, concus pour traiter les donnees structurees et non structurees a grande echelle. Nous construisons l'infrastructure qui rend l'IA possible.",
       "features": {
-        "etl": "Pipelines ETL/ELT",
-        "warehouse": "Entreposage de donnees",
-        "realtime": "Analytique temps reel",
-        "governance": "Qualite et gouvernance des donnees"
+        "etl": "Conception de pipelines augmentee par l'IA",
+        "warehouse": "Entreposage de donnees & architecture lakehouse",
+        "realtime": "Surveillance automatisee de la qualite des donnees",
+        "governance": "Integration LLM pour les donnees non structurees"
       }
     },
     "dba": {
       "title": "Administration de Bases de Donnees",
-      "description": "Services DBA experts pour garantir que vos bases de donnees sont optimisees, securisees et toujours disponibles. Nous gerons la complexite pour que vous puissiez vous concentrer sur la croissance.",
+      "description": "Services DBA amplifies par nos propres outils IA. AutoDBA apporte des diagnostics IA et un tuning predictif a votre environnement SQL Server.",
       "features": {
-        "performance": "Optimisation des performances",
-        "availability": "Configuration haute disponibilite",
-        "backup": "Sauvegarde et recuperation",
-        "security": "Renforcement de la securite"
+        "performance": "Diagnostics & analyse IA",
+        "availability": "Tuning predictif des performances",
+        "backup": "Surveillance & alertes intelligentes",
+        "security": "Durcissement de la securite & conformite"
       }
     },
     "consulting": {
-      "title": "Conseil Technique",
-      "description": "Conseils strategiques pour vos decisions technologiques. Nous vous aidons a choisir la bonne architecture, les bons outils et processus pour un succes a long terme.",
+      "title": "Strategie IA & Technologie",
+      "description": "Conseils strategiques sur la ou l'IA genere un vrai ROI plutot que du buzz. Nous vous aidons a construire des plateformes prets pour l'IA, evaluer les outils et prendre des decisions technologiques durables.",
       "features": {
-        "architecture": "Revue d'architecture",
-        "assessment": "Evaluation technologique",
-        "augmentation": "Renfort d'equipe",
-        "optimization": "Optimisation des processus"
+        "architecture": "Evaluation de la maturite IA & ROI",
+        "assessment": "Revue d'architecture pour plateformes IA",
+        "augmentation": "Selection d'outils & evaluation des fournisseurs",
+        "optimization": "Strategie data & feuille de route de modernisation"
       }
     }
   },
@@ -177,7 +177,7 @@
       "softwareDev": "Developpement Logiciel",
       "dataEng": "Ingenierie de Donnees",
       "dba": "Administration de Bases de Donnees",
-      "consulting": "Conseil Technique",
+      "consulting": "Strategie IA & Technologie",
       "other": "Autre",
       "sendMessage": "Envoyer le Message",
       "sending": "Envoi en cours...",
@@ -243,24 +243,24 @@
     },
     "softwareDev": {
       "badge": "Services de Developpement Logiciel",
-      "headline": "Des Logiciels Sur Mesure pour Propulser Votre Entreprise",
-      "subheadline": "De la conception au deploiement, nous construisons des solutions logicielles evolutives et maintenables, adaptees a vos besoins exacts.",
+      "headline": "Des Logiciels qui Integrent l'IA la ou Cela Compte Vraiment",
+      "subheadline": "Des applications boostees par l'IA aux integrations LLM, nous construisons des logiciels qui apportent une veritable intelligence — pas juste un chatbot greffe a la derniere minute.",
       "benefits": {
         "fullstack": {
-          "title": "Developpement Full-Stack",
-          "description": "Developpement complet d'applications web et mobiles avec des frameworks modernes et les meilleures pratiques."
+          "title": "Developpement d'Applications IA",
+          "description": "Developpement complet d'applications web et mobiles avec des capacites IA integrees des le depart, pas ajoutees en cours de route."
         },
         "api": {
-          "title": "Conception et Integration d'API",
-          "description": "APIs RESTful et GraphQL qui connectent vos systemes de maniere transparente et evoluent avec votre croissance."
+          "title": "Integration LLM & API IA",
+          "description": "Integration de grands modeles de langage et de services IA dans vos produits — d'OpenAI et Anthropic aux modeles auto-heberges — avec une fiabilite de niveau production."
         },
         "cloud": {
           "title": "Applications Cloud-Native",
-          "description": "Applications concues pour le cloud des le premier jour avec conteneurisation et pipelines CI/CD."
+          "description": "Applications concues pour le cloud des le premier jour avec conteneurisation, pipelines CI/CD et la scalabilite pour les charges de travail IA."
         },
         "legacy": {
           "title": "Modernisation de Systemes Legacy",
-          "description": "Donnez une nouvelle vie a vos systemes vieillissants. Nous migrons et modernisons sans perturber vos operations."
+          "description": "Donnez une nouvelle vie a vos systemes vieillissants. Nous migrons et modernisons sans perturber vos operations — et vous positionnons pour la readiness IA."
         }
       },
       "testimonials": [
@@ -276,24 +276,24 @@
     },
     "dataEng": {
       "badge": "Services d'Ingenierie de Donnees",
-      "headline": "Transformez vos Donnees Brutes en Intelligence Business",
-      "subheadline": "Nous concevons et implementons des pipelines de donnees robustes, des entrepots et des solutions analytiques qui transforment vos donnees en avantage competitif.",
+      "headline": "L'Infrastructure Data qui Rend l'IA Possible",
+      "subheadline": "L'IA n'est aussi bonne que les donnees qui la sous-tendent. Nous concevons des pipelines et plateformes augmentes par l'IA pour traiter les donnees structurees et non structurees a grande echelle.",
       "benefits": {
         "etl": {
-          "title": "Pipelines ETL/ELT",
-          "description": "Pipelines de donnees fiables et evolutifs qui extraient, transforment et chargent les donnees de n'importe quelle source vers n'importe quelle destination."
+          "title": "Conception de Pipelines Augmentee par l'IA",
+          "description": "Des pipelines intelligents qui ne se contentent pas de deplacer les donnees — ils valident, enrichissent et signalent les anomalies automatiquement grace a des controles qualite ML."
         },
         "warehouse": {
-          "title": "Entreposage de Donnees",
-          "description": "Architecture moderne d'entrepot de donnees sur Snowflake, BigQuery ou Redshift — concue pour la performance et l'efficacite."
+          "title": "Entreposage de Donnees & Architecture Lakehouse",
+          "description": "Architecture lakehouse et entrepot de donnees moderne sur Snowflake, Databricks, BigQuery ou Redshift — concue pour les charges de travail BI et IA."
         },
         "realtime": {
-          "title": "Analytique Temps Reel",
-          "description": "Traitement de flux et tableaux de bord en temps reel pour une visibilite instantanee sur vos metriques business."
+          "title": "Surveillance Automatisee de la Qualite des Donnees",
+          "description": "Surveillance proactive qui detecte les problemes de donnees avant qu'ils n'atteignent vos modeles ou tableaux de bord, avec alertes automatisees et analyse des causes racines."
         },
         "governance": {
-          "title": "Qualite et Gouvernance des Donnees",
-          "description": "Cadres de qualite des donnees, tracabilite et politiques de gouvernance pour des donnees fiables dans toute votre organisation."
+          "title": "Integration LLM pour les Donnees Non Structurees",
+          "description": "Exploitez la valeur des documents, emails et textes avec des pipelines LLM d'extraction, classification et embedding integres a votre plateforme de donnees."
         }
       },
       "testimonials": [
@@ -313,24 +313,24 @@
     },
     "dba": {
       "badge": "Services d'Administration de Bases de Donnees",
-      "headline": "Des Performances de Base de Donnees Fiables",
-      "subheadline": "Services DBA experts pour garder vos bases de donnees optimisees, securisees et toujours disponibles — pour que vous puissiez vous concentrer sur la croissance.",
+      "headline": "Des Services DBA Amplifies par nos Propres Outils IA",
+      "subheadline": "Nous n'offrons pas seulement des services DBA traditionnels — nous apportons AutoDBA, une plateforme de diagnostic IA developpee en interne, a votre environnement SQL Server.",
       "benefits": {
         "performance": {
-          "title": "Optimisation des Performances",
-          "description": "Optimisation des requetes, tuning d'index et ajustements de configuration qui ameliorent considerablement les temps de reponse."
+          "title": "Diagnostics & Analyse IA",
+          "description": "AutoDBA analyse la configuration, la sante des index, les statistiques d'attente et les patterns de requetes pour fournir des recommandations expertes avec des corrections T-SQL actionnables."
         },
         "availability": {
-          "title": "Haute Disponibilite",
-          "description": "Architectures de bases de donnees toujours actives avec basculement, replication et reprise apres sinistre integres."
+          "title": "Tuning Predictif des Performances",
+          "description": "Passez de la gestion reactive des incidents au tuning predictif — en identifiant les tendances de degradation des performances avant qu'elles ne deviennent des pannes."
         },
         "backup": {
-          "title": "Sauvegarde et Recuperation",
-          "description": "Strategies de sauvegarde completes et procedures de recuperation testees pour proteger votre actif le plus precieux — vos donnees."
+          "title": "Surveillance & Alertes Intelligentes",
+          "description": "Surveillance pilotee par l'IA qui distingue le signal du bruit, pour etre alerte sur ce qui compte sans etre submerge par les faux positifs."
         },
         "security": {
-          "title": "Renforcement de la Securite",
-          "description": "Audits de securite, chiffrement, controles d'acces et configurations de conformite pour proteger vos bases de donnees."
+          "title": "Durcissement de la Securite & Conformite",
+          "description": "Audits de securite, chiffrement, controles d'acces et configurations de conformite pour proteger vos bases de donnees et satisfaire les auditeurs."
         }
       },
       "creator": {
@@ -344,30 +344,30 @@
       }
     },
     "consulting": {
-      "badge": "Services de Conseil Technique",
-      "headline": "Un Accompagnement Technologique Strategique pour un Succes Durable",
-      "subheadline": "Nous vous aidons a prendre les bonnes decisions technologiques — de la revue d'architecture au renfort d'equipe — pour construire sur des bases solides.",
+      "badge": "Strategie IA & Technologie",
+      "headline": "Demeler le Buzz IA. Construire Ce qui Fonctionne Vraiment.",
+      "subheadline": "Nous vous aidons a identifier ou l'IA genere un ROI reel, a concevoir l'architecture pour le supporter, et a prendre des decisions technologiques fondees sur l'experience pratique — pas sur les arguments commerciaux.",
       "benefits": {
         "architecture": {
-          "title": "Revue d'Architecture",
-          "description": "Revue approfondie de votre architecture systeme avec des recommandations concretes pour l'evolutivite et la fiabilite."
+          "title": "Evaluation de la Maturite IA & ROI",
+          "description": "Une evaluation honnete des domaines ou l'integration IA fera vraiment la difference pour votre activite, par opposition a la ou elle ajoute de la complexite sans valeur."
         },
         "assessment": {
-          "title": "Evaluation Technologique",
-          "description": "Evaluation objective de votre stack technique, identifiant les risques, la dette technique et les opportunites d'amelioration."
+          "title": "Revue d'Architecture pour Plateformes IA",
+          "description": "Evaluez votre architecture data et applicative actuelle par rapport aux besoins pour supporter des charges de travail IA de maniere fiable et a grande echelle."
         },
         "augmentation": {
-          "title": "Renfort d'Equipe",
-          "description": "Ingenieurs experimentes qui s'integrent a votre equipe pour accelerer la livraison et transferer les competences."
+          "title": "Selection d'Outils & Evaluation des Fournisseurs",
+          "description": "Naviguez dans le paysage encombre des outils IA et data avec des conseils independants et neutres, bases sur une experience d'implementation reelle."
         },
         "optimization": {
-          "title": "Optimisation des Processus",
-          "description": "Rationalisez votre flux de developpement avec CI/CD, les meilleures pratiques DevOps et des ameliorations agiles."
+          "title": "Strategie Data & Feuille de Route de Modernisation",
+          "description": "Un chemin clair de votre etat actuel vers une plateforme de donnees prete pour l'IA — priorisee par l'impact business et sequencee pour une execution realiste."
         }
       },
       "seo": {
-        "title": "Services de Conseil Technique | Samix Technology",
-        "description": "Conseil technique strategique — revue d'architecture, evaluation technologique, renfort d'equipe et optimisation des processus. Consultation gratuite."
+        "title": "Conseil en Strategie IA & Technologie | Samix Technology",
+        "description": "Conseil pratique en strategie IA et technologie — evaluation de la maturite IA, revue d'architecture, selection d'outils et feuille de route de modernisation. Consultation gratuite."
       }
     }
   },
